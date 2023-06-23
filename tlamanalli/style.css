@@ -1,0 +1,53 @@
+body{
+    background-color: #413E49;
+    color: #F0FFFF;
+    font-family: sans-serif;
+}
+
+#header-img {
+    height: 16vh;
+    margin: 4px auto 0px auto;
+}
+
+#logo-tagline {
+    margin:1% 0px 0px 1%;
+    text-align: center;
+    width: 90vw;
+}
+
+.table {
+    margin: 8px auto;
+    width: 90%;
+    padding: 1em;
+}
+
+p {
+    margin-top: 4px;
+}
+
+h1 {
+    margin-bottom: 0px;
+    color: #A68A56;
+}
+
+header {
+    background-color: #413E49;
+    border: 2px solid #A68A56;
+    font-family: serif;
+}
+
+#tagline {
+    font-size: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #F0FFFF;
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #0B9299;
+}
