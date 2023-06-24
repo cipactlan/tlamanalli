@@ -15,6 +15,11 @@ body{
     width: 90vw;
 }
 
+#logo-tagline > h1 {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
 .table {
     margin: 8px auto;
     width: 90%;
@@ -33,6 +38,7 @@ h1 {
 header {
     background-color: #413E49;
     border: 2px solid #A68A56;
+    font-family: serif;
 }
 
 #tagline {
